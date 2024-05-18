@@ -1,0 +1,28 @@
+Node js nos permite crear un codigo de servidor.
+
+para comunicar una web vamos a utilizar el protocolo HTTP
+
+ESTO es una APP cliente servidor.
+
+Cuando hacemos una peticion se llama Request.
+
+Cuando hacemos una consulta se llama Response.
+
+el servidor no alamacena datos solo los maneja.
+
+REST API , como nombras y solicitamos esos datos, atraves de endpoint. 
+
+get, post, put, delete.
+
+respondemos datos en tipo json por par clave y valor.
+
+---------------------------------------------------------------------------------
+
+CONEXION CON MYSQL
+
+instalamos mysql2 
+
+createPool: 
+
+SHOW GLOBAL VARIABLES LIKE 'port';
+
